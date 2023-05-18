@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="myfirstconcept">
+   <title>Fedora Workstation</title>
+    <shortdesc>Fedora Workstation is a polished, easy to use operating system for laptop and desktop
+        computers, with a complete set of tools for developers and makers of all kinds. </shortdesc>
+    <conbody>
+        <p>This is the Linux workstation you've been waiting for. Fedora Workstation is a reliable,
+            user-friendly, and powerful operating system for your laptop or desktop computer. It
+            supports a wide range of developers, from hobbyists and students to professionals in
+            corporate environments.</p>
+        <p>Focus on your code in the GNOME 40 desktop environment. GNOME is built with developer
+            feedback and minimizes distractions, so you can concentrate on what's important.</p>
+    </conbody>
+</concept>
